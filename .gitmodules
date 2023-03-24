@@ -1,0 +1,6 @@
+[submodule "external/caracalnet"]
+	path = external/caracalnet
+	url = https://github.com/jtainer/caracalnet.git
+[submodule "external/collider"]
+	path = external/collider
+	url = https://github.com/jtainer/collider.git

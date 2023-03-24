@@ -6,8 +6,8 @@
 #include <stdio.h>
 #include <raylib.h>
 
-#include "caracalnet/caracalnet.h"
-#include "collider/collider.h"
+#include "external/caracalnet/caracalnet.h"
+#include "external/collider/collider.h"
 
 int main() {
 	// 5 inputs: Vector3 sample position, Vector2 viewing angle
